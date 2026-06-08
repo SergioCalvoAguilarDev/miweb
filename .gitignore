@@ -1,0 +1,16 @@
+# Claude Code
+.claude/
+CLAUDE.local.md
+
+# Python (agent/)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+
+# Sistema operativo
+Thumbs.db
+desktop.ini
+.DS_Store
