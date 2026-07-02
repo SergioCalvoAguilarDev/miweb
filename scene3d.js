@@ -292,7 +292,7 @@ import { OBJLoader } from 'three/addons/loaders/OBJLoader.js';
     inspectTarget = 1;
 
     // Show UI
-    overlay.style.background = 'rgba(0,0,0,0.7)';
+    overlay.style.background = 'rgba(0,0,0,0)';
     nameLabel.textContent = entry.name;
     nameLabel.style.opacity = '1';
     hintLabel.style.opacity = '1';
